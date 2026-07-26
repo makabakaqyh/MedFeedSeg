@@ -1,4 +1,4 @@
-# MedFeedSeg
+# MedFeedSeg: Corrective Language Feedback for Interactive Medical Image Segmentation
 
 > **Corrective Language Feedback: Complementing Spatial Prompts in
 > Interactive Medical Image Segmentation**
