@@ -55,6 +55,10 @@ No manually annotated language instructions are required.
 │           └── label/
 │
 ├── MedFeedSeg/
+│   ├── dataset_process/
+│   │   ├── BraTS2021_process.py
+│   │   ├── LiTS_process.py
+│   │   ├── PolypGen.py
 │   ├── network/
 │   │   ├── IMISNet/
 │   │   ├── ScribblePromptUNet/
